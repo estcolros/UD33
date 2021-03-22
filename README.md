@@ -23,3 +23,10 @@ Angular                  https://angular.io/
 Angular Cli              https://cli.angular.io/
 Node.js                  https://nodejs.org/es/
 ```
+#### 5. Screenshots de la instalación del stack tecnológico.
+
+![Angular Cli (A)](https://user-images.githubusercontent.com/78431881/112058904-753aba80-8b5b-11eb-9e2f-b2094c946b7f.png)
+![Angular Cli (B)](https://user-images.githubusercontent.com/78431881/112058922-7b309b80-8b5b-11eb-9dbb-4e6d2a7e6347.png)
+![Angular Extension ](https://user-images.githubusercontent.com/78431881/112058930-7d92f580-8b5b-11eb-85ae-176a3251790f.png)
+![NodeJS](https://user-images.githubusercontent.com/78431881/112058937-7f5cb900-8b5b-11eb-98c4-c7d3f6e57a23.png)
+![Proyecto Angular](https://user-images.githubusercontent.com/78431881/112058945-81bf1300-8b5b-11eb-9015-b36f90f7fb28.png)
